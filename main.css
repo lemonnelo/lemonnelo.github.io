@@ -67,7 +67,9 @@ nav{
 
 
 @media screen and (max-width: 1010px){
-	
+	.topnav a{
+		display: none;
+	}
 	.topnav a.icon{
 		float: right;
 		margin-top: -17px;
