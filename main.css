@@ -187,4 +187,48 @@ h2{
 .about1{
 	width: 100%;
 	padding-top: 80px;
+
+}
+.dates_right{
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: left;
+	padding-bottom: 5px;
+}
+.about_description_right{
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	padding-bottom: 10px;
+}
+.description{
+	text-align: left;
+}
+.january{
+	width: 290px;
+	margin: 0 auto;
+	margin-right: 40px;
+	margin-left: 45px;
+	float: right;
+}
+.january p{
+	text-align: left;
+}
+.january img{
+	width: 100%;
+}
+.about2{
+	width: 100%;
+	padding-top: 80px;
+}
+.img_right{
+	float: right;
+}
+.cwrite{
+	margin-top: 115px;
+	padding-bottom: 115px;
+}
+.about_us_blocks {
+	margin-top: 125px;
 }
